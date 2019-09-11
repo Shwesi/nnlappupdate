@@ -1,1 +1,3 @@
-[![](https://jitpack.io/v/Shwesi/nnlappupdate.svg)](https://jitpack.io/#Shwesi/nnlappupdate)
+https://jitpack.io/v/User/Repo.svg?style=flat-square)
+
+
